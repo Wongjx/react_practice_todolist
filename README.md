@@ -1,1 +1,1 @@
-Credits to https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6
+Credits to https://www.kirupa.com/react/simple_todo_app_react.htm
